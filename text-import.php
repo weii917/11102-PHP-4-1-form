@@ -1,12 +1,19 @@
 <style>
-    table {
-        border-collapse: collapse;
-    }
+table {
+    border-collapse: collapse;
+}
 
-    td {
-        border: 1px solid #666;
-        padding: 5px 12px;
-    }
+td {
+    border: 1px solid #666;
+    padding: 5px 12px;
+}
+
+th {
+    border: 1px solid #666;
+    padding: 5px 12px;
+    background-color: black;
+    color: white;
+}
 </style>
 <?php
 
